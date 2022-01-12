@@ -1,0 +1,1 @@
+# hadolint-jenkins-docker
