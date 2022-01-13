@@ -1,3 +1,3 @@
 FROM nginx/nginx:latest
 
-CMD ['dskhnksjdh']
+CMD ['dsekhnksjdh']
