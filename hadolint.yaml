@@ -1,2 +1,1 @@
-HADOLINT_NOFAIL=1
 failure-threshold: error
