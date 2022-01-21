@@ -1,3 +1,1 @@
-FRO M nginx/nginx:latest
-
-CMD ['dsekhn
+FROM nginx/nginx:latest
