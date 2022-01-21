@@ -1,3 +1,3 @@
-FROM nginx/nginx:latest
+FRO M nginx/nginx:latest
 
-CMD ['dsekhnksjdh']
+CMD ['dsekhn
